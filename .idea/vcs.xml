@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/pz_1_2_mongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pz_3_mongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pz_4_mongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pz_5_mongo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pz_6_mongo" vcs="Git" />
+  </component>
+</project>
